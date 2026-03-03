@@ -14,4 +14,4 @@ A responsive web application that provides real-time weather information using a
 Scrum
 
 ## Current Status
-Initial setup and documentation phase.
+
