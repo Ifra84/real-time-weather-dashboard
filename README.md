@@ -5,6 +5,12 @@ This project aims to develop a Real-Time Weather Dashboard that allows users to 
 
 The project is being developed as part of the Software Engineering coursework and follows the Scrum development methodology.
 
+## Contributors
+
+- Ifra
+- Rabia
+- Mst
+
 ## Features
 - Search weather by city name
 - Display temperature, humidity, and wind speed
