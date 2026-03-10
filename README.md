@@ -25,8 +25,10 @@ The following technologies are used in this project:
 - **React** – Frontend user interface
 - **Flask** – Backend API handling
 - **Weather API** – Real-time weather data
-- **GitHub** – Version control
+- **GitHub** – Version control and collaboration
 - **Trello** – Project management using Scrum
+
+
 
 ## Project Management
 The development process follows the Scrum methodology. Tasks are organised using a Trello board with the following workflow:
