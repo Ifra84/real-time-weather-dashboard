@@ -53,6 +53,8 @@ The next stage of the project will focus on system design including use case dia
 
 ## System Design
 
+The following diagrams illustrate the design of the Real-Time Weather Dashboard.
+
 ### User Persona
 ![User Persona](Design/User%20Persona.png)
 
