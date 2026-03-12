@@ -48,7 +48,7 @@ The project is currently in the documentation and planning phase. The following 
 - Requirements Analysis
 - Legal, Social, Ethical, Economic and Commercial Considerations
 - Technical Review
-
+The next stage of the project will focus on system design including use case diagrams, system architecture and UI wireframes.
 - ## System Design
 
 ### User Persona
@@ -57,6 +57,6 @@ The project is currently in the documentation and planning phase. The following 
 ### Use Case Diagram
 ![Use Case Diagram](design/use_case_diagram.png)
 
-The next stage of the project will focus on system design including use case diagrams, system architecture and UI wireframes.
+
 
 ## Repository Structure
