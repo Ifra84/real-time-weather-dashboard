@@ -55,10 +55,10 @@ The next stage of the project will focus on system design including use case dia
 
 The following diagrams illustrate the design of the Real-Time Weather Dashboard.
 
-### User Persona
-![User Persona](Design/User%20Persona.png)
-
 ### Use Case Diagram
 ![Use Case Diagram](Design/Use%20Case.drawio.png)
+
+### User Persona
+![User Persona](Design/User%20Persona.png)
 
 ## Repository Structure
