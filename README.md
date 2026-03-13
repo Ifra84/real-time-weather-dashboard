@@ -69,6 +69,7 @@ Search Interface
 Weather Dashboard  
 ![Dashboard UI](Design/ui_dashboard.png)
 
+
 Error Handling  
 ![Error UI](Design/ui_error.png)
 
