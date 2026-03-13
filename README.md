@@ -61,4 +61,15 @@ The following diagrams illustrate the design of the Real-Time Weather Dashboard.
 ### User Persona
 ![User Persona](Design/User%20Persona.png)
 
+### High-Fidelity UI Designs
+
+Search Interface  
+![Search UI](Design/ui_search.png)
+
+Weather Dashboard  
+![Dashboard UI](Design/ui_dashboard.png)
+
+Error Handling  
+![Error UI](Design/ui_error.png)
+
 ## Repository Structure
