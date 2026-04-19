@@ -1,9 +1,8 @@
 # Real-Time Weather Dashboard
 
 ## Project Overview
-This project aims to develop a Real-Time Weather Dashboard that allows users to search for weather information for different cities. The system retrieves real-time weather data from an external weather API and displays it in a clear and user-friendly dashboard interface.
 
-The project is being developed as part of the Software Engineering coursework and follows the Scrum development methodology.
+This project presents a Real-Time Weather Dashboard that allows users to search for weather information for different cities. The application retrieves live weather data from an external API and displays key information such as temperature, humidity, and wind speed in a clear and user-friendly interface. The system has been fully developed using React and deployed using Vercel. It includes features such as real-time data updates, responsive design, error handling for invalid inputs, and an optional light/dark mode for improved user experience. The project demonstrates the practical application of modern web development technologies, including API integration, component-based architecture, and front-end deployment.
 
 ## Contributors
 
@@ -49,8 +48,12 @@ The project has been successfully completed and deployed. All major features inc
 
 
 ## Project Overview
-
-This project presents a Real-Time Weather Dashboard that allows users to search for weather information for different cities. The application retrieves live weather data from an external API and displays key information such as temperature, humidity, and wind speed in a clear and user-friendly interface. The system has been fully developed using React and deployed using Vercel. It includes features such as real-time data updates, responsive design, error handling for invalid inputs, and an optional light/dark mode for improved user experience. The project demonstrates the practical application of modern web development technologies, including API integration, component-based architecture, and front-end deployment.
+Software Development Methodology 
+Requirements Analysis 
+Legal, Social, Ethical, Economic and Commercial Considerations 
+Technical Review
+Design
+Development and Testing
 
 ## System Design
 
