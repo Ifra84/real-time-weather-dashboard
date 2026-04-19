@@ -48,12 +48,12 @@ The project has been successfully completed and deployed. All major features inc
 
 
 ## Project Overview
-Software Development Methodology 
-Requirements Analysis 
-Legal, Social, Ethical, Economic and Commercial Considerations 
-Technical Review
-Design
-Development and Testing
+- Software Development Methodology 
+- Requirements Analysis 
+- Legal, Social, Ethical, Economic and Commercial Considerations
+- Technical Review
+- Design
+- Development and Testing
 
 ## System Design
 
