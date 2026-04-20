@@ -22,15 +22,35 @@ https://real-time-weather-dashboard-three.vercel.app/
 - Optional light mode / dark mode interface
 
 ## Technology Stack
-The following technologies are used in this project:
 
-- React (Frontend)
-- Vite (Build Tool)
-- Open-Meteo API (Weather Data)
-- CSS (Styling)
-- Vercel (Deployment)
-- GitHub (Version control and collaboration)
-- Trello (Project management using Scrum)
+The following technologies were used to develop and deploy the Real-Time Weather Dashboard:
+
+### Frontend
+
+* **React** – Used to build the user interface with a component-based architecture
+* **CSS** – Used for styling and layout design
+* **JavaScript (ES6)** – Used for application logic and API handling
+
+### Build Tool
+
+* **Vite** – Used for fast development and optimized production builds
+
+### API Integration
+
+* **Open-Meteo API** – Used to fetch real-time weather data including temperature, humidity, and wind speed
+
+### Deployment
+
+* **Vercel** – Used to host and deploy the application online
+
+### Development Tools
+
+* **Git & GitHub** – Used for version control and project management
+* **Visual Studio Code** – Used as the code editor
+
+### Architecture
+
+* The application follows a **frontend-only architecture**, where all logic runs on the client side and data is retrieved directly from an external API without a custom backend.
 
 
 ## Project Management
