@@ -97,6 +97,10 @@ The following diagrams illustrate the design of the Real-Time Weather Dashboard.
 ### Error Handling
 ![Error UI](Design/ui_error.png.png)
 
+## A3 Project Poster
+
+![Weather Dashboard Poster](./Weather%20Dashboard%20A3%20Poster.png)
+
 ## Repository Structure
 
 The project follows a structured and organised folder layout:
